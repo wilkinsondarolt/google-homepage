@@ -1,0 +1,9 @@
+body {
+  font-size: small;
+}
+
+.logo {
+  height: 90px;
+  width: 272px;
+  background: url(https://www.google.com.br/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) no-repeat;
+}
